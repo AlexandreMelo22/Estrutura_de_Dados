@@ -1,3 +1,4 @@
+import java.lang.Math;
 public class Atividade01 {
 
     public static void main(String[] args) {
